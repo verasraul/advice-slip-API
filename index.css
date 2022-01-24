@@ -29,7 +29,7 @@ body,html{
     color: #f1e5d2;
     text-shadow: -1px -1px 0 black, -1px 3px 0 black;
     
-    border-color: #520b09;
+    border-color: rgb(218, 250, 10);
     border-width: 3px;
     border-radius: 25px;
     background-color: rgb(9, 99, 255);
