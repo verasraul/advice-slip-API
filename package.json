@@ -1,0 +1,16 @@
+{
+  "name": "advice-slip-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^14.2.0"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
